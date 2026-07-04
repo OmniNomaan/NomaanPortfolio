@@ -30,4 +30,4 @@ A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no 
 ## Tech
 HTML5 · CSS3 · Vanilla JS · JetBrains Mono & Inter (Google Fonts)
 ## Live Demo
-[View Portfolio]()
+[View Portfolio](https://nomaankilledar.github.io/NomaanPortfolio/)
