@@ -16,7 +16,7 @@ A dark, terminal-inspired personal portfolio built with pure HTML/CSS/JS — no 
 - Web Development
 - HTML
 - Coding
-- Windows Systems (Master level)
+- Windows System Administration
 - Linux
 - Professional & Highly Skilled Gamer
 
